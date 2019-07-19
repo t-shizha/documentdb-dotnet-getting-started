@@ -1,5 +1,5 @@
 ---
-services: cosmos-db
+services: cosmos-db 
 platforms: dotnet
 author: andrewhoh
 ---
